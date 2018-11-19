@@ -1,3 +1,3 @@
-# Linkea-WebView
+# Linkea.apk
 
 Es una aplicación de android con una webview para la página http://www.linkea.cf
